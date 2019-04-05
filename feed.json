@@ -14,7 +14,7 @@
             "url": "https://baniares.github.io/bio/test.html",
             "title": "test",
             "summary": "testing this thing",
-            "content_html": "testing this thing",
+            "content_html": "<img class=\"post__image\" src=\"https://baniares.github.io/bio/media/posts/2/avatar.jpg\" alt=\"\" width=\"4000\" height=\"3000\">testing this thing",
             "image": "https://baniares.github.io/bio/media/posts/2/avatar.jpg",
             "author": {
                 "name": "Ramces Bañares"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-04-05T03:43:13-06:00",
-            "date_modified": "2019-04-05T03:54:15-06:00"
+            "date_modified": "2019-04-05T04:01:08-06:00"
         }
     ]
 }
