@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Baniares",
+    "description": "",
+    "home_page_url": "https://baniares.github.io/bio",
+    "feed_url": "https://baniares.github.io/bio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ramces Bañares"
+    },
+    "items": [
+        {
+            "id": "https://baniares.github.io/bio/baniares.html",
+            "url": "https://baniares.github.io/bio/baniares.html",
+            "title": "Ramces Bañares",
+            "summary": "Software Engineer in deep passion for mobile application development. Working with pHin as a Software Enginner in charge of the Android application development.",
+            "content_html": "Software Engineer in deep passion for mobile application development. Working with pHin as a Software Enginner in charge of the Android application development.",
+            "image": "https://baniares.github.io/bio/media/posts/1/00100sPORTRAIT_00100_BURST20190228124704105_COVER.jpg",
+            "author": {
+                "name": "Ramces Bañares"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-05T03:03:54-06:00",
+            "date_modified": "2019-04-05T03:13:10-06:00"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Baniares</title>
+    <link href="https://baniares.github.io/bio/feed.xml" rel="self" />
+    <link href="https://baniares.github.io/bio" />
+    <updated>2019-04-05T03:30:54-06:00</updated>
+    <author>
+        <name>Ramces Bañares</name>
+    </author>
+    <id>https://baniares.github.io/bio</id>
+
+    <entry>
+        <title>Ramces Bañares</title>
+        <author>
+            <name>Ramces Bañares</name>
+        </author>
+        <link href="https://baniares.github.io/bio/baniares.html"/>
+        <id>https://baniares.github.io/bio/baniares.html</id>
+
+        <updated>2019-04-05T03:13:10-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://baniares.github.io/bio/media/posts/1/00100sPORTRAIT_00100_BURST20190228124704105_COVER.jpg" alt="" />
+                    Software Engineer in deep passion for mobile application development. Working with pHin as a Software Enginner in charge of the Android application development.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://baniares.github.io/bio/media/posts/1/00100sPORTRAIT_00100_BURST20190228124704105_COVER.jpg" alt="" />
+                Software Engineer in deep passion for mobile application development. Working with pHin as a Software Enginner in charge of the Android application development.
+            ]]>
+        </content>
+    </entry>
+</feed>
