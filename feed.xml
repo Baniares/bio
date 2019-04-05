@@ -3,7 +3,7 @@
     <title>Baniares</title>
     <link href="https://baniares.github.io/bio/feed.xml" rel="self" />
     <link href="https://baniares.github.io/bio" />
-    <updated>2019-04-05T04:15:30-06:00</updated>
+    <updated>2019-04-05T04:18:11-06:00</updated>
     <author>
         <name>Ramces Bañares</name>
     </author>
@@ -17,18 +17,20 @@
         <link href="https://baniares.github.io/bio/test.html"/>
         <id>https://baniares.github.io/bio/test.html</id>
 
-        <updated>2019-04-05T04:14:38-06:00</updated>
+        <updated>2019-04-05T04:17:46-06:00</updated>
             <summary>
                 <![CDATA[
-                    testing this thing
+                    testing this thingasasdasdasdasda 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery"   >
+                testing this thing
+<p>asasdasdasdasda</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://baniares.github.io/bio/media/posts/2/gallery/avatar.jpg" ><img src="https://baniares.github.io/bio/media/posts/2/gallery/avatar-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div>
-testing this thing
+<p> </p>
             ]]>
         </content>
     </entry>
