@@ -13,8 +13,8 @@
             "id": "https://baniares.github.io/bio/test.html",
             "url": "https://baniares.github.io/bio/test.html",
             "title": "test",
-            "summary": "testing this thingasasdasdasdasda ",
-            "content_html": "testing this thing\n<p>asasdasdasdasda</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://baniares.github.io/bio/media/posts/2/gallery/avatar.jpg\" ><img src=\"https://baniares.github.io/bio/media/posts/2/gallery/avatar-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div>\n<p> </p>",
+            "summary": "testing this thing asasdasdasdasda ",
+            "content_html": "<p>testing this thing</p>\n<p><img class=\"post__image\" src=\"https://baniares.github.io/bio/media/posts/2/coins.ico\" alt=\"\" width=\"256\" height=\"256\"></p>\n<p>asasdasdasdasda</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://baniares.github.io/bio/media/posts/2/gallery/avatar.jpg\" ><img src=\"https://baniares.github.io/bio/media/posts/2/gallery/avatar-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div>\n<p> </p>",
             "image": "https://baniares.github.io/bio/media/posts/2/avatar.jpg",
             "author": {
                 "name": "Ramces Bañares"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-04-05T03:43:13-06:00",
-            "date_modified": "2019-04-05T04:32:11-06:00"
+            "date_modified": "2019-04-05T04:36:52-06:00"
         }
     ]
 }
